@@ -1,0 +1,85 @@
+/* .a{
+    border-radius: 50%;
+    text-align: center;
+   
+
+}
+.test{
+   display: grid; 
+   grid-template-columns: auto,auto;
+   grid-template-rows: auto,auto;
+   border: 1px;
+   border-color: black;
+   border-style: solid;
+   width: 400px;
+   height: 400px;
+   
+}
+
+#rachel{
+grid-column: 1/2;
+width: 200px;
+height:200px;
+
+
+
+}
+#sara1{
+    background-color: pink;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    grid-column:2/3
+    width: 200px;
+    height:200px;
+ 
+}
+#avia{
+    background-color: yellow;
+    border: px;
+    border-color: black;
+    border-style: solid;
+    width: 200px;
+    height:200px;
+
+    grid-column: 1/2;
+ 
+}
+#eden{
+   
+    grid-column: 2/3;
+    width: 200px;
+    height:200px;
+   
+}
+.test:hover{
+    color:white;
+
+}
+.a:hover{
+    background:linear-gradient(orange,yellow,white,white)
+}
+
+#rachel,#eden{
+    animation-name: sara;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+}
+#chris{
+   border: 2px;
+   border-color: white;
+   border-style: solid;
+   border-radius: 50%; 
+}
+#sara{
+    border: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 50%; 
+ }
+@keyframes sara{
+  100%{
+  rotate: 360deg;
+  }  
+} */
